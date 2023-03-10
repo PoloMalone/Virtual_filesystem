@@ -1,0 +1,5 @@
+*.o
+*.bin
+filesystem
+*.vscode
+*.DS_Store
